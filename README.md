@@ -1,6 +1,6 @@
 # My CS Degree - Full-Stack ML Engineering (2020)
 
-Being a machine learning software engineer with a background in Physics, I felt the lack of a CS degree had been a limiting factor in my long-term growth. To tackle it head-on, I designed this curriculum for myself with the best resources I found online, focusing on CS basics as well as full-stack development, deep learning and natural language processing.
+Taking inspiration from [Logan Yang's collection](https://github.com/logancyang/my-cs-degree), a curated list of ML engineering topics that feel the most relevant to me. 
 
 There are general knowledge courses and project courses.
 
