@@ -8,6 +8,8 @@ There are general knowledge courses and project courses.
 
 **Project courses** are the real learning process. Learning by doing is the only way to learn.
 
+**Papers and medium posts** are reference material for specific key concepts use-cases.
+
 ## General knowledge courses
 
 #### CS101. Computer architectures: general intro
@@ -156,4 +158,19 @@ There are general knowledge courses and project courses.
 - [course page](https://madewithml.com/courses/applied-ml-in-production/)
 - [MadeWithML youtube channel](https://www.youtube.com/c/MadeWithML/)
 
-#### CS602 Open Source Contributions of Your Choosing
+
+## Papers and medium posts
+
+### Personalization
+
+#### Theory
+- Transformers: [intuitive explanation](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+- [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+
+#### Use Cases
+- [News Recommendations at scale](https://dpgmedia-engineering.medium.com/news-recommendation-at-scale-2ce03bbc4692)
+
+### NLP
+#### Theory
+- [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
